@@ -21,6 +21,7 @@ Jupyter Notebook
 The dataset is loaded directly from Seaborn:
 
 import seaborn as sns
+
 df = sns.load_dataset("titanic")
 
 ## Key Questions Answered
